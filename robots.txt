@@ -1,0 +1,5 @@
+User-agent: *
+Allow: / 
+Crawl-delay: 1
+Host: http://aquaphor.kg/
+Sitemap: http://aquaphor.kg/sitemap.xml
